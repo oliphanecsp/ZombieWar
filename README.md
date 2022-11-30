@@ -19,5 +19,11 @@ This is by far the easiest way to add to this library. I made the names for the 
 ![image](https://user-images.githubusercontent.com/117201932/204916760-228a848c-3ea2-451d-a391-f8063646780d.png)
 -----------------------------------------------------------------------------------------------------------------
 
+
 After you make changes in netbeans you can navigate to Github desktop and see the changes. 
+Since we are all messing with our own sections fetch and pull is not as crucial. 
+Fetch will grab all new files but let you preview the changes before syncing your local files. 
+Pull will automatically sync all files 
+For more info check here https://www.jetbrains.com/help/go/sync-with-a-remote-repository.html#update-git-branch
+
 ![image](https://user-images.githubusercontent.com/117201932/204917468-4aed5fef-b77b-4065-b1da-561deefd4ac6.png)
