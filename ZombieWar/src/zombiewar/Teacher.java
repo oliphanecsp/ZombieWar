@@ -1,13 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ /**
+ *  Jnesler 
+ * Software engineering
+ * Last Edit 12/1/2022
  */
 package zombiewar;
 
-/**
- *
- * @author Mobile Gaming
- */
 public class Teacher extends Survivor{
     
     private static final int HEALTH = 50; 

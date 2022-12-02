@@ -1,4 +1,8 @@
- 
+ /**
+ *  Jnesler 
+ * Software engineering
+ * Last Edit 12/1/2022
+ */ 
 package zombiewar;
  
 public class Survivor extends Combatant{
@@ -13,8 +17,7 @@ private String survivorType;
 
 
 public Survivor(String survivorType, int health, int attack) {
-super(Combatant.SURVIVOR, health, attack);
- 
+super(Combatant.SURVIVOR, health,  attack);
 
 this.survivorType = survivorType;
 }

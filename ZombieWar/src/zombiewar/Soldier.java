@@ -1,13 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ /**
+ *  Jnesler 
+ * Software engineering
+ * Last Edit 12/1/2022
  */
 package zombiewar;
 
-/**
- *
- * @author Mobile Gaming
- */
-public class Soldier {
+public class Soldier extends Survivor{
+       
+    private static final int HEALTH = 100; 
+    private static final int ATTACK = 10;
     
+    public Soldier(){
+        super(Survivor.SOLDIER, HEALTH, ATTACK);
+    }
 }
