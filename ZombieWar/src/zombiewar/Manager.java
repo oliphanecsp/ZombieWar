@@ -5,6 +5,6 @@
  */ 
 package zombiewar;
 
-public class Manager {
+public class Manager   {
     
 }
