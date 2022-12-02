@@ -1,3 +1,7 @@
+/*
+	North Seelinger 
+*/
+
 package zombiewar;
 
 import java.util.Scanner;  // Import the Scanner class
