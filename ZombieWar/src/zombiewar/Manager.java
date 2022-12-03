@@ -6,6 +6,7 @@ package zombiewar;
 import java.util.ArrayList;
 import java.util.Random;
 
+
 /**
  *
  * @author Eric Oliphant
@@ -14,14 +15,15 @@ public class Manager {
 
     //instance variables
     private Combatant[] combatants;
-    private int numberOfChildren = 0;
-    private int numberOfTeachers = 0;
-    private int numberOfSoldiers = 0;
-    private int numberOfCommonInfected = 0;
-    private int numberOfTanks = 0;
+    private int numberOfChildren=0;
+    private int numberOfTeachers=0;
+    private int numberOfSoldiers=0;
+    private int numberOfCommonInfected=0;
+    private int numberOfTanks=0;
     private int numberOfSurvivors = 0;
     private int numberOfZombies = 0;
     private ArrayList<String> names = new ArrayList<>();
+
     /**
      * createCombatantsArray(). This method randomly generates an array of
      * Zombies and Survivors. The length of the array is randomly generated as
